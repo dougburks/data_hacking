@@ -72,7 +72,7 @@ The primary motivation for these exercises is to explore the nexus of IPython, P
 - PE File Similarity Graph using Workbench
     - [Notebook Viewer](http://nbviewer.ipython.org/github/SuperCowPowers/workbench/blob/master/notebooks/PE_SimGraph.ipynb)
 
-#####Setup:
+#### Setup:
 
   * Required packages:
     * Brew/apt-get
